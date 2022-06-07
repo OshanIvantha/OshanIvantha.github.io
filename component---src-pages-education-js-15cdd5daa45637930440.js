@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkivantha=self.webpackChunkivantha||[]).push([[459],{8797:function(e,t,a){a.r(t);var n=a(7294),c=a(4446);t.default=function(){return n.createElement(c.Z,null,n.createElement("div",{className:"educationLayout section-wrapper"},n.createElement("div",{className:"section-title"},n.createElement("h1",null,"Education")),n.createElement("div",{className:"section-items"},"Oshan is crazy busy")))}}}]);
+//# sourceMappingURL=component---src-pages-education-js-15cdd5daa45637930440.js.map
